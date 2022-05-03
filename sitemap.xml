@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/second_post/</loc>
+    <loc>https://t-a-hensel.github.io/consensus-public/second_post/</loc>
     <lastmod>2022-05-03T21:58:39+02:00</lastmod>
   </url><url>
-    <loc>/first_post/</loc>
+    <loc>https://t-a-hensel.github.io/consensus-public/first_post/</loc>
     <lastmod>2022-05-03T21:16:56+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://t-a-hensel.github.io/consensus-public/</loc>
   </url>
 </urlset>
