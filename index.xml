@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Consensus.Science</title>
-    <link>https://t-a-hensel.github.io/consensus-public/</link>
-    <description>Recent content on Consensus.Science</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://t-a-hensel.github.io/consensus-public/index.xml" rel="self" type="application/rss+xml" />
+    <title>Reclaim your Science</title>
+    <link>https://t-a-hensel.github.io/desci/</link>
+    <description>Recent content on Reclaim your Science</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://t-a-hensel.github.io/desci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second_post</title>
-      <link>https://t-a-hensel.github.io/consensus-public/second_post/</link>
+      <link>https://t-a-hensel.github.io/desci/second_post/</link>
       <pubDate>Tue, 03 May 2022 21:58:39 +0200</pubDate>
       
-      <guid>https://t-a-hensel.github.io/consensus-public/second_post/</guid>
+      <guid>https://t-a-hensel.github.io/desci/second_post/</guid>
       <description>Title here is some content!!!</description>
     </item>
     
     <item>
       <title>First_post</title>
-      <link>https://t-a-hensel.github.io/consensus-public/first_post/</link>
+      <link>https://t-a-hensel.github.io/desci/first_post/</link>
       <pubDate>Tue, 03 May 2022 21:16:56 +0200</pubDate>
       
-      <guid>https://t-a-hensel.github.io/consensus-public/first_post/</guid>
+      <guid>https://t-a-hensel.github.io/desci/first_post/</guid>
       <description>Heading some text&amp;hellip;</description>
     </item>
     
